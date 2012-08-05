@@ -153,7 +153,7 @@ class XHProfRuns_Default implements iXHProfRuns {
         usort($files, create_function('$a,$b', 'return filemtime($b) - filemtime($a);'));
         foreach ($files as $file) {
             list($run,$source) = explode('.', basename($file));
-            echo '<li><a href="' . htmlentities($_SERVER['SCRIPT_NAME'])
+            echo '<li><a href="index.php'
                 . '?run=' . htmlentities($run) . '&source='
                 . htmlentities($source) . '">'
                 . htmlentities(basename($file)) . "</a><small> "
