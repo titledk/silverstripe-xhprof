@@ -21,7 +21,7 @@ _XHProf_ needs to be installed and running on your system for this module to wor
 `include "../xhprof/_includes/footer.php";`
 - Now, when running your site, you should see a `Profiler output` link on the very bottom of your site
 
-### Installing XHProf
+## Installing XHProf
 
 On an *nix machine with PECL installed, follow this instruction:
 
@@ -39,7 +39,7 @@ _You might need to create the dirctory_
 - For the graphs to work, you need to install _GraphViz_:    
 `apt-get install graphviz`
 
-### XHProf Resources
+## XHProf Resources
 
 * A very good guide on profiling with XHProf:    
 <http://techportal.inviqa.com/2009/12/01/profiling-with-xhprof/>
