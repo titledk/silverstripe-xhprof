@@ -1,5 +1,5 @@
 {
-  "name": "titledk/xhprof",
+  "name": "titledk/silverstripe-xhprof",
 	"type": "silverstripe-module",
 	"description": "A Silverstripe module for facilitating profiling with XHProf",
 	"keywords": ["silverstripe", "profiling", "dev", "xhprof"],
