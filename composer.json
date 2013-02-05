@@ -1,0 +1,19 @@
+{
+  "name": "titledk/xhprof",
+	"type": "silverstripe-module",
+	"description": "A Silverstripe module for facilitating profiling with XHProf",
+	"keywords": ["silverstripe", "profiling", "dev", "xhprof"],
+	"license": "Apache License",
+	"authors": [
+		{
+			"name": "Anselm Christophersen",
+			"homepage": "http://anselm.dk"
+		}
+	],
+	"require": 
+	{
+		"php": ">=5.3.2",
+		"silverstripe/framework": "3.*",
+		"silverstripe/cms": "3.*"
+	}
+}
