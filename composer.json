@@ -7,7 +7,8 @@
 	"authors": [
 		{
 			"name": "Anselm Christophersen",
-			"homepage": "http://anselm.dk"
+			"homepage": "http://anselm.dk",
+			"email": "ac@anselm.dk"
 		}
 	],
 	"require": 
